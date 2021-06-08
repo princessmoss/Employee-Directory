@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/princessmoss/employee-directory/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/princessmoss/employee-directory/static/js/main.94dc996e.chunk.js",
+    "main.js.map": "/princessmoss/employee-directory/static/js/main.94dc996e.chunk.js.map",
+    "runtime-main.js": "/princessmoss/employee-directory/static/js/runtime-main.44854ad8.js",
+    "runtime-main.js.map": "/princessmoss/employee-directory/static/js/runtime-main.44854ad8.js.map",
+    "static/js/2.f6c5cafc.chunk.js": "/princessmoss/employee-directory/static/js/2.f6c5cafc.chunk.js",
+    "static/js/2.f6c5cafc.chunk.js.map": "/princessmoss/employee-directory/static/js/2.f6c5cafc.chunk.js.map",
+    "static/js/3.b7fd01bd.chunk.js": "/princessmoss/employee-directory/static/js/3.b7fd01bd.chunk.js",
+    "static/js/3.b7fd01bd.chunk.js.map": "/princessmoss/employee-directory/static/js/3.b7fd01bd.chunk.js.map",
+    "index.html": "/princessmoss/employee-directory/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/princessmoss/employee-directory/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f6c5cafc.chunk.js.LICENSE.txt": "/princessmoss/employee-directory/static/js/2.f6c5cafc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/princessmoss/employee-directory/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44854ad8.js",
+    "static/js/2.f6c5cafc.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.94dc996e.chunk.js"
+  ]
+}
