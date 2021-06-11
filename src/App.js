@@ -1,20 +1,15 @@
-import React from 'react';
-import Main from './components/main';
-import Wrapper from './components/wrapper';
-import Header from './components/header';
-import './App.cs';
+import React from "react";
+import "./App.css";
+import Header from "./components/Header";
+import EmployeesContainer from "./components/Container/EmployeesContainer";
 
-function App() {
-    return (
-        <div className="App">
-        <wrapper>
-            <header>
-                <main>
-                </main>
-            </header>
-        </wrapper>
-     </div>
-    );
-}
+const App = () => {
+  return (
+    <>
+      <Header />
+      <EmployeesContainer />
+    </>
+  );
+};
 
 export default App;
