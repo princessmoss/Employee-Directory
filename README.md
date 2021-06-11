@@ -19,4 +19,4 @@ https://user-images.githubusercontent.com/77419537/121706753-ebd4bd80-caa3-11eb-
 
 [GitHub Repository](https://github.com/princessmoss/employee-directory)
 
-[Deployed Link](https://github.com/princessmoss/employee-directory)
+[Deployed Link](https://princessmoss.github.io/employee-directory/)
